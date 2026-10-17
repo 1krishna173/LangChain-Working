@@ -56,7 +56,7 @@ Ensure the summary is clear, accurate, and aligned with the provided style and l
 # Initialize Gemini Model
 llm = ChatGoogleGenerativeAI(
     model="gemini-3.8-flash",
-    temperature=0.3,
+    temperature=0.5,
 )
 
 # Build the LCEL Chain

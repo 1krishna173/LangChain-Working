@@ -1,0 +1,2 @@
+Human: I request Refund
+AI: Refund will be initiated in 3-5 working days
